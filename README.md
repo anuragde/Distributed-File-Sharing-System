@@ -2,4 +2,4 @@
 Modern Networking Concepts - Project 1
 
 Note:
-Get and Put functionality is not implemented.
+Get and Put functionalities are not implemented.
