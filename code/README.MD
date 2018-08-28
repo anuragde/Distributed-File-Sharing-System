@@ -1,6 +1,4 @@
-Note: The code is not complete.
-
-The goal of the project is to familiarize with socket programming and implement a simple application for distributed file sharing among remote hosts.
+Simple application for distributed file sharing among remote hosts.
 
 Project description:
 
