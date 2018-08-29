@@ -46,12 +46,6 @@ struct server_ip_list {
 	struct server_ip_list serverList[5];//As only 5 servers exist ,better not to hardcode
 	struct server_ip_list client_list[5];
 	struct server_ip_list serverListCopy[5];
-string to_string(int i)
-{
-    stringstream ss;
-    ss << i;
-    return ss.str();
-}
 
 void *get_in_addr(struct sockaddr *sa)
 {
